@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomEditText</string>
+    <string name="change_square_color">Change square color</string>
+</resources>
